@@ -1,14 +1,5 @@
 <meta charset="UTF-8">
 <title>落地页</title>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-53VSQMJQWV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-53VSQMJQWV');
-</script>
 <script>
 var _hmt = _hmt || [];
 (function() {
