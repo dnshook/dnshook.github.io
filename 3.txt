@@ -6,10 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
   <meta name="format-detection" content="telephone=no,email=no" />
   <title>开运</title>
-<script>
-    var state = {title:'1',url:window.location.host[0]};
-    history.pushState(state,'','404/');
-</script>
+  <script>
+    var state = {url:window.location.href.split("?")[0]};
+    history.pushState(state,'','/404/');
+  </script>
   <script>
     function baseFont() {
       var docEl = document.getElementsByTagName("html")[0];
