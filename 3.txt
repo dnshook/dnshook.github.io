@@ -262,7 +262,7 @@
   </script>
   <div class="content">
     <div class="logo">
-      <img src="https://p.qlogo.cn/qqmail_head/XYrRG5UShDfwTbqY9DsYngpEs7X7iaPwVU0pdOGcXaefUn4QdIODFRdQzU6ZeMT1vjkv1Ibyhgicg/0" alt="" />
+      <img src="https://p.qlogo.cn/qqmail_head/XYrRG5UShDfwTbqY9DsYngpEs7X7iaPwVm77vGv2KemVicJMSXiafpgW0pXU9t8OgibGEgTthmJE80Y/0" alt="" />
     </div>
     <div class="swiper mySwiper1 banner">
       <div class="swiper-wrapper">
