@@ -1,15 +1,15 @@
 <script>
 var _hmt = _hmt || [];
-(function() {
+(function () {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?db06e66ab0a6c309d5c065e27df2663f";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 
-function time() {
-    var arr = ["https://www.rxmzo.com:9093/entry/register/?i_code=94802501", "https://www.rxmzo.com:9093/entry/register/?i_code=94802501"];
-		window.location.href = arr[parseInt(Math.random() * arr.length)];
+if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+	window.location.href="/123.html";
+}else{
+	window.location.href="/403.html";
 }
-setTimeout(time, 300);
 </script>
