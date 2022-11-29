@@ -1,4 +1,3 @@
-<script>
 var _hmt = _hmt || [];
 (function () {
   var hm = document.createElement("script");
@@ -12,4 +11,3 @@ if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobil
 }else{
 	window.location.href="/404.html";
 }
-</script>
