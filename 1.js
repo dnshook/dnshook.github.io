@@ -1,7 +1,7 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "//api.tongjiniao.com/c?_=647823998975373312";
+  hm.src = "//api.tongjiniao.com/c?_=648990906625581056";
   hm.async = true;
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
